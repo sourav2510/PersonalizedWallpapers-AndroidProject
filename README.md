@@ -1,6 +1,6 @@
 # PersonalizedWallpapers-AndroidProject
 
-## Add your own google-services.json file in project's app directory to run the application
+### Add your own google-services.json file in project's app directory to run the application
 
 This is an app in which we can have our own favourite customised HD Wallpapers. 
 We can set these wallpapers in mobile by just clicking on the Set Wallpaper button. 
